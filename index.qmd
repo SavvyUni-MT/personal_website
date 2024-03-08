@@ -1,0 +1,5 @@
+---
+title: ""
+---
+
+I am an assistant professor at the University of Toronto, jointly appointed in the Faculty of Information and the Department of Statistical Sciences. I am also the assistant director of CANSSI Ontario, a senior fellow at Massey College, a faculty affiliate at the Schwartz Reisman Institute for Technology and Society, and a co-lead of the DSI Thematic Program in Reproducibility.
